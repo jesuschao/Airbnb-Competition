@@ -6,9 +6,16 @@
 
 Try to find a machine learning model that predicts prices of apartments in Airbnb.
 
-### COMEMENTS.
+### PROCESS.
 
-In this project I've tried to make a prediction with several models, however I have not suceeded as there was a huge overfitting on my stydy. 
+- Cleaning the csv, Nan, unseful columns ...
+- Include numeric columns and transform columns with strings (get dummies)
+- Check correlation.
+- Training the model-
+
+### COMENTS.
+
+I've tried to make a prediction with several models, however I have not suceeded as there was a huge overfitting on my stydy. 
 
 Finally my best option was "Random Forest Model" among all models checked.
 
