@@ -1,23 +1,21 @@
-# W7-Kaggle_competition
+# PREDICTING PRICES OF AIRBNB APARTMENTS IN AMSTERDAM.
 
 ![](http://latfusa.com/media/uploads/2020/12/10/airbnb-678x381.jpg)
 
 ### OBJECTIVE.
 
-Try to find a machine learning model that predicts prices of apartments in Airbnb.
+To predict prices of Airbnb apartments in Amsterdam with Machine Learning. To find which model offer best results.
 
 ### PROCESS.
 
-- Cleaning the csv, Nan, unseful columns ...
-- Include numeric columns and transform columns with strings (get dummies)
-- Check correlation.
-- Training the model-
+I have created two Jupyter Notebooks: One for "training" and the other one for "testing". This has been done to clean and prepare data from both csv's (train.csv and test.csv). Both csv have undergone same transformations but I found clearer proceeding in this way.
 
-### COMENTS.
+After the cleaning and transformation, I trained data with different models to see the results.
 
-I've tried to make a prediction with several models, however I have not suceeded as there was a huge overfitting on my stydy. 
+### COMMENTS.
 
-Finally my best option was "Random Forest Model" among all models checked.
+In general, there is a small overfitting but, among all checked models, the best result was obtained with Random Forest Regressor RFR(). 
+
 
 ![](https://www.lavanguardia.com/files/image_948_465/uploads/2021/11/08/6188d30c7a62b.jpeg)
 
