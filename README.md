@@ -1,16 +1,16 @@
-# PREDICTING PRICES OF AIRBNB APARTMENTS IN AMSTERDAM.
+# Predicting prices of AIRBNB apartments in AMSTERDAM.
 
 ![](http://latfusa.com/media/uploads/2020/12/10/airbnb-678x381.jpg)
 
 ### OBJECTIVE.
 
-To predict prices of Airbnb apartments in Amsterdam with Machine Learning. To find which model offer best results.
+This project falls within the framework of a Kaggle competition. The aim is predicting prices of Airbnb apartments in Amsterdam with Machine Learning as well as finding which model offers best results.
 
 ### PROCESS.
 
-I have created two Jupyter Notebooks: One for "training" and the other one for "testing". This has been done to clean and prepare data from both csv's (train.csv and test.csv). Both csv have undergone same transformations but I found clearer proceeding in this way.
+I have created two Jupyter Notebooks: One for "training" and the other one for "testing". This has been done to clean and prepare data from both csv's ("train.csv" and "test.csv"). The files have undergone same transformations, anyway, I proceeded in this way because I found it clearer.
 
-After the cleaning and transformation, I trained data with different models to see the results.
+After having cleaned and transformed data, I trained them with different models to see the results and submitted my prediction.
 
 ### COMMENTS.
 
